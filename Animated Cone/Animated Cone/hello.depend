@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1561537949 source:e:\cg-summer19\hello\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<windows.h>
+	<GL/glut.h>
+
+1561537949 source:e:\cg-summer19\rotation of all the primitives\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<windows.h>
+	<GL/glut.h>
+
+1561538737 source:e:\cg-summer19\bouncing ball\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<windows.h>
+	<GL/glut.h>
+
